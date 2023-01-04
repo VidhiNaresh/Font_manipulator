@@ -1,0 +1,21 @@
+.heading {
+    padding: 10px;
+    color: black;
+    box-shadow: 10px 10px 10px rgb(22, 21, 21);
+    font-size: 23px !important;
+    font-weight: 600;
+}
+.note{
+    font-size: 15px !important;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.copy_right_footer{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 700;
+    position: fixed;
+    bottom: 0;
+    background-color: rgb(206, 206, 206);
+    width: 100%;
+    padding: 10px;
+    font-size: 15px;
+}
